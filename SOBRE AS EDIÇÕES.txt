@@ -1,0 +1,6 @@
+Neste arquivo vou concentrar considerações gerais sobre as edições no guitar pro:
+
+Sobre a inserção dos dados do comprador no PDF:
+
+Usarei o Campo Letra/Words para inserir o nome e o PDF de quem adquirir cópias dos meus arranjos.
+chamarei de ID. (Nome + Email / ou número aleatório). terei o cadastro do ID de cada Comprador
