@@ -48,14 +48,15 @@ Se não vira Jazz - Low G - Djavan					https://alehilario.com/senaovirajazz/
 Sir Duke - Stevie Wonder						https://alehilario.com/sirduke/
 Ska - Os Paralamas do Sucesso						https://alehilario.com/ska/
 Sobre o Tempo - Nenhum de Nós						https://alehilario.com/sobreotempo/
-Tears od the dragon - LOW G - Bruce Dickinson
-Tender - LOW G -Blur
-Todo azul do mar - 14 Bis
-Ursinho Pimpão - A Turma do Balão Mágico
-Vamo Pulá - Sandy e Jr.
-Wicked Heart - Tristen
-Woman - John Lennon
-You only live once - The Strokes
+Something - The Beatles							https://alehilario.com/something/
+Tears od the dragon - LOW G - Bruce Dickinson			https://alehilario.com/tearsofthedragon/
+Tender - LOW G -Blur							https://alehilario.com/tender/
+Todo azul do mar - 14 Bis						https://alehilario.com/todoazuldomar/
+Ursinho Pimpão - A Turma do Balão Mágico				https://alehilario.com/ursinhopimpao/
+Vamo Pulá - Sandy e Jr.							https://alehilario.com/vamopula/
+Wicked Heart - Tristen							https://alehilario.com/wickedheart/
+Woman - John Lennon							https://alehilario.com/woman/
+You only live once - The Strokes					https://alehilario.com/youonlyliveonce/
 
 Em processo de Revisão (Podem ser solicitadas)
 
@@ -71,5 +72,6 @@ Em breve...
 (Longview - Greenday)
 (Luiza - Tom Jobim)
 (Meus bons amigos - Barão Vermelho)
+PsycoKillers
 
-<a href='https://alehilario.com/littlesong/' target="_blank">Little song - Duo</a>
+<a href='https://alehilario.com/youonlyliveonce/' target="_blank">You only live once</a>
